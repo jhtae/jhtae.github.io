@@ -2561,6 +2561,8 @@
 
 	#portfolio h6{
 		font-size: .8em;
-		margin: 0;
-		padding: 0;
+		margin-left: 10%;
+		margin-right: 10%;
+		line-height: 1.8;
+		margin-bottom: 2%;
 	}
