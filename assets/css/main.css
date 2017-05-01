@@ -1707,14 +1707,14 @@
 		}
 
 		.image.avatar48 {
-			width: 48px;
-			height: 48px;
+			width: 66.666666666666666666666px;
+			height: 100px;
 			background: #f00;
 		}
 
 			.image.avatar48 img {
-				width: 48px;
-				height: 48px;
+			width: 66.666666666666666666666px;
+			height: 100px;
 			}
 
 		.image.fit {
@@ -2557,4 +2557,10 @@
 					margin-top: 0;
 				}
 
+	}
+
+	#portfolio h7{
+		font-size: .8em;
+		margin: 0;
+		padding: 0;
 	}
