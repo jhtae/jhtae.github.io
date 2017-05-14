@@ -1,1 +1,1 @@
-Check out my portfolio site at <https://jhtae.me>
+Check out my portfolio site at <http://jhtae.me>
